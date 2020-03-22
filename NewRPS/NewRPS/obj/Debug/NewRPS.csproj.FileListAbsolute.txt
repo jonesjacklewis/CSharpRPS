@@ -1,0 +1,13 @@
+C:\Users\Jack Jones\Documents\Documents\Programming\Projects\C#\NewRPS\NewRPS\bin\Debug\NewRPS.exe.config
+C:\Users\Jack Jones\Documents\Documents\Programming\Projects\C#\NewRPS\NewRPS\obj\Debug\NewRPS.Form1.resources
+C:\Users\Jack Jones\Documents\Documents\Programming\Projects\C#\NewRPS\NewRPS\obj\Debug\NewRPS.Properties.Resources.resources
+C:\Users\Jack Jones\Documents\Documents\Programming\Projects\C#\NewRPS\NewRPS\obj\Debug\NewRPS.csproj.GenerateResource.Cache
+C:\Users\Jack Jones\Documents\Documents\Programming\Projects\C#\NewRPS\NewRPS\bin\Debug\NewRPS.exe
+C:\Users\Jack Jones\Documents\Documents\Programming\Projects\C#\NewRPS\NewRPS\bin\Debug\NewRPS.pdb
+C:\Users\Jack Jones\Documents\Documents\Programming\Projects\C#\NewRPS\NewRPS\obj\Debug\NewRPS.exe
+C:\Users\Jack Jones\Documents\Documents\Programming\Projects\C#\NewRPS\NewRPS\obj\Debug\NewRPS.pdb
+C:\Users\Jack Jones\Documents\Documents\Programming\Projects\C#\NewRPS\NewRPS\obj\Debug\NewRPS.csprojResolveAssemblyReference.cache
+C:\Users\Jack Jones\Documents\Documents\Programming\Projects\C#\NewRPS\NewRPS\bin\Debug\NewRPS.exe.manifest
+C:\Users\Jack Jones\Documents\Documents\Programming\Projects\C#\NewRPS\NewRPS\bin\Debug\NewRPS.application
+C:\Users\Jack Jones\Documents\Documents\Programming\Projects\C#\NewRPS\NewRPS\obj\Debug\NewRPS.exe.manifest
+C:\Users\Jack Jones\Documents\Documents\Programming\Projects\C#\NewRPS\NewRPS\obj\Debug\NewRPS.application
